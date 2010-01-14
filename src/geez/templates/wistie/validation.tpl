@@ -1,0 +1,1 @@
+{$message}{$img}{$error}{$err1}{$err2}{$err3}

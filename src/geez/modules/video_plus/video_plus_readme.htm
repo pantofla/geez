@@ -1,0 +1,34 @@
+<h3>Video Plus Module</h3>
+<hr />
+<p>
+<strong>Created by:</strong> ChuckRoast and Yankidank<br />
+<strong>Created on:</strong> 12-23-2008<br />
+<strong>Last Updated:</strong> 03-26-2009
+</p>
+<hr />
+<p><strong>Requires:</strong> jQuery module v0.2 or above</p>
+<hr />
+<p>
+<strong>Description</strong><br />
+Displays the video if the submitted link contains video. If the url is from Youtube it will automatically embed youtube thumbnails into your site, if it is another service supported it will display a default thumbnail.
+</p>
+<p>
+<strong>Template Use</strong><br />
+If a Youtube url is entered into submit step 1, thumbnails should be automatically be displayed in your template.<br />
+Youtube offers a total of 4 static images that can be used to insert into your template. We have assigned all 4 images as template variables that
+you can use in your link_summary.tpl or video_plus_index.tpl files. Below are examples of each of the template tags followed by a brief description.</p>
+<ol>
+	<li>&lt;img src="{$video_thumbnail_large}" /> produces the only 320x240 pixel thumbnail </li>
+	<li>&lt;img src="{$video_thumbnail}" /> produces the first 120x90 pixel thumbnail </li>
+	<li>&lt;img src="{$video_thumbnail_2}" /> produces the second 120x90 pixel thumbnail </li>
+	<li>&lt;img src="{$video_thumbnail_3}" /> produces the third 120x90 pixel thumbnail </li>
+</ol>
+
+<hr />
+<p>
+<strong>Revision History</strong><br />
+v0.1 ChuckRoast - First version<br />
+v0.2 ChuckRoast - 12-23-08 Second version<br />
+v0.3 Yankidank - 03-24-2009 - Added Youtube thumbnails and default thumbnail.<br />
+v0.4 Yankidank - 03-26-2009 - Made the default video thumbnail compatible with SEO URLs. Fixed the div size so it wouldn't crop 5px from the image height and width
+</p>

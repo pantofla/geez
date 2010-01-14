@@ -1,0 +1,66 @@
+/**
+ *	Zoki Poll css
+ *
+ *	This file provides styles table for poll
+ *
+ *	Copyright (c) 2007, Zoki Soft <info@zokisoft.com>.
+ * 
+ *	This file is part of ZokiPoll.
+ *	
+ *	Zoki Poll is free software: you can redistribute it and/or modify
+ *	it under the terms of the GNU Lesser General Public License as published by
+ *	the Free Software Foundation, either version 3 of the License, or
+ *	(at your option) any later version.
+ *
+ *	Zoki Poll is distributed in the hope that it will be useful,
+ *	but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *	GNU Lesser General Public License for more details.
+ *
+ *	You should have received a copy of the GNU Lesser General Public License
+ *	along with ZokiPoll.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ */
+
+/* poll box */
+
+	a img
+	{
+		border:none;
+	}
+
+	.pollBox
+	{
+		font-family:Arial;
+		border:0px solid red;
+	}
+	.pollContainer
+	{
+		position:relative;
+		overflow:hidden;
+		/*height:150px;*/
+		width:250px;
+		background-color: #fff;
+		border:1px solid #979797;
+		text-align:left;
+		color:#464759;
+	}
+	div.pollCaption
+	{
+		position:relative;
+		margin:2px;
+		padding:5px 5px;
+		overflow:hidden;
+		/*height:20px;*/
+		line-height:20px;
+		vertical-align:middle;
+		font-weight:bold;
+		font-size: 14px;
+		border:1px solid #ccc;
+		/*color:#8b8c9b;*/
+		background-color:#f1f1f1;
+		font-family:Arial;
+		font-style:italic;
+	}
+
+	

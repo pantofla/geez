@@ -1,0 +1,8 @@
+<root><poll>
+<id>2</id>
+<question>Second modern poll from file</question>
+<variant><text>answer 1</text><votes>0</votes></variant>
+<variant><text>answer 2</text><votes>1</votes></variant>
+<variant><text>answer 3</text><votes>0</votes></variant>
+<variant><text>answer 4</text><votes>1</votes></variant>
+</poll></root>

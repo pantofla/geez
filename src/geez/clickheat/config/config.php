@@ -1,0 +1,26 @@
+<?php $clickheatConf = array (
+  'logPath' => '/home/pantofla/public_html/geez/clickheat/logs/',
+  'cachePath' => '/home/pantofla/public_html/geez/clickheat/cache/',
+  'referers' => 
+  array (
+    0 => 'geez',
+  ),
+  'groups' => false,
+  'filesize' => 0,
+  'adminLogin' => 'admin',
+  'adminPass' => '89bda66d8040995840f4cc88ad934598',
+  'viewerLogin' => '',
+  'viewerPass' => '',
+  'memory' => 64,
+  'step' => 5,
+  'dot' => 19,
+  'flush' => 40,
+  'start' => 'm',
+  'palette' => false,
+  'heatmap' => true,
+  'hideIframes' => true,
+  'hideFlashes' => true,
+  'yesterday' => false,
+  'alpha' => 80,
+  'version' => '1.8-beta',
+); ?>

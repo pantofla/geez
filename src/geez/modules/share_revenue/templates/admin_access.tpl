@@ -1,0 +1,1 @@
+<img src="{$my_pligg_base}/modules/share_revenue/images/coins.png" align="absmiddle"/> <a href="https://www.google.com/adsense/report/overview?timePeriod=today" rel="width:900,height:600" class="mb">Google Adsense</a><br/>

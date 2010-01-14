@@ -1,0 +1,1 @@
+<script src="./modules/mootools/js/mootools-min.js" type="text/javascript"></script>

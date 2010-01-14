@@ -1,0 +1,6 @@
+[31-Mar-2009 17:03:08] PHP Warning:  Invalid argument supplied for foreach() in /home/pantofla/public_html/geez/libs/backup/file_backup/backup.php on line 49
+[31-Mar-2009 17:28:55] PHP Warning:  Invalid argument supplied for foreach() in /home/pantofla/public_html/geez/libs/backup/file_backup/backup.php on line 49
+[02-Apr-2009 10:23:24] PHP Warning:  Invalid argument supplied for foreach() in /home/pantofla/public_html/geez/libs/backup/file_backup/backup.php on line 49
+[06-Apr-2009 10:22:24] PHP Warning:  Duplicate column name 'comment_anonymous_username' in /home/pantofla/public_html/geez/libs/db.php on line 236
+[06-Apr-2009 10:22:24] PHP Warning:  Duplicate column name 'comment_anonymous_email' in /home/pantofla/public_html/geez/libs/db.php on line 236
+[06-Apr-2009 10:22:24] PHP Warning:  Duplicate column name 'comment_anonymous_website' in /home/pantofla/public_html/geez/libs/db.php on line 236

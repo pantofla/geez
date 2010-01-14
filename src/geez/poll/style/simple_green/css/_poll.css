@@ -1,0 +1,38 @@
+/**
+ *	Zoki Poll css
+ *	Copyright (c) 2007, Zoki Soft <info@zokisoft.com>.
+ */
+
+/* poll box */
+
+	.pollBox
+	{
+		border: 0px solid #000000;
+	}
+	.pollContainer
+	{
+		position:relative;
+		overflow:hidden;
+		/* height of poll box */
+		/* you probably should modify same value at pollBodyBlock class */
+		/*height:150px;*/
+		/* here you can change witdh of your poll */
+		/* don't forget to modify class pollContentBlock too */
+		width:250px;
+		background-color: #D4E6AA;
+		border:1px solid #979797;
+		text-align:left;
+
+	}
+	div.pollCaption
+	{
+		position:relative;
+		margin:2px;
+		padding:0px 5px;
+		overflow:hidden;
+		line-height:20px;
+		vertical-align:middle;
+		font-weight:bold;
+		font-size: 14px;
+
+	}

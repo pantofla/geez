@@ -1,0 +1,9 @@
+<?php
+define("EZSQL_DB_USER", 'pantofla_pantofl');
+define("EZSQL_DB_PASSWORD", 'ntouzos21');
+define("EZSQL_DB_NAME", 'pantofla_geez');
+define("EZSQL_DB_HOST", 'localhost');
+if (!function_exists('gettext')) {
+	function _($s) {return $s;}
+}
+?>

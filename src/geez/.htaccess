@@ -1,0 +1,180 @@
+##### Gzip Begin #####
+## To enable Gzip and decrease the load times of your Pligg site
+## change /home/path/to to your absolute server path and remove the two # from both lines
+## php_value auto_prepend_file /home/path/to/begin_gzip.php
+## php_value auto_append_file /home/path/to/end_gzip.php
+
+## AddType "text/javascript" .gz
+## AddEncoding gzip .gz
+## RewriteCond %{HTTP:Accept-encoding} gzip
+## RewriteCond %{THE_REQUEST} ^(.*).js
+## RewriteCond %{SCRIPT_FILENAME}.gz -f
+## RewriteRule ^(.*)\.js $1.js.gz [L]
+##### Gzip End #####
+
+##### 404 Error Begin #####
+## If Pligg is installed in a subfolder, change the below line to ErrorDocument 404 /name-of-subfolder/404error.php
+ErrorDocument 404 /404error.php
+##### 404 Error End #####
+
+##### Re-directing Begin #####
+Options +FollowSymlinks -MultiViews
+RewriteEngine on
+## If Pligg is installed in a subfolder, change the below line to RewriteBase /name-of-subfolder
+RewriteBase /
+## If installed in a subfolder you may need to add ## to the beginning of the next line
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /.*index\.php\ HTTP/
+
+## Remove these two lines if you have a sub-domain like  http://subdomain.pligg.com  or http://localhost
+## Keep if your site it like   http://www.pligg.com
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^\/?(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+##### Re-directing End #####
+
+##### You can find the below lines pre-made for you in the category management section of the admin panel ######
+##RewriteRule ^(all|News)/([^/]+)/?$ story.php?title=$2 [L]
+##RewriteRule ^(all|News)/?$ ?category=$1 [L] 
+RewriteRule ^(all|I%95I%80I%B9I%BAI%B1I%B9I%81I%8CI%84I%B7I%84I%B1|I%9FI%B9I%BAI%BFI%BDI%BFI%BCI%AFI%B1|I%A0I%BFI%BBI%B9I%84I%B9I%BAI%AE|I%A4I%B5I%87I%BDI%BFI%BBI%BFI%B3I%AFI%B1|I%95I%80I%B9I%83I%84I%AEI%BCI%B5I%82|I%91I%B8I%BBI%B7I%84I%B9I%BAI%AC|Lifestyle|Shopping|I%A8I%85I%87I%B1I%B3I%89I%B3I%AFI%B1|I%91I%83I%84I%B5I%AFI%B1)/([^/]+)/?$ story.php?title=$2 [L]
+RewriteRule ^(all|I%95I%80I%B9I%BAI%B1I%B9I%81I%8CI%84I%B7I%84I%B1|I%9FI%B9I%BAI%BFI%BDI%BFI%BCI%AFI%B1|I%A0I%BFI%BBI%B9I%84I%B9I%BAI%AE|I%A4I%B5I%87I%BDI%BFI%BBI%BFI%B3I%AFI%B1|I%95I%80I%B9I%83I%84I%AEI%BCI%B5I%82|I%91I%B8I%BBI%B7I%84I%B9I%BAI%AC|Lifestyle|Shopping|I%A8I%85I%87I%B1I%B3I%89I%B3I%AFI%B1|I%91I%83I%84I%B5I%AFI%B1)/?$ ?category=$1 [L] 
+
+##### URL Method 2 ("Clean" URLs) Begin #####
+RewriteRule ^cache/([0-9]+)/?$ index.php [L]
+RewriteRule ^cache/admin_c([0-9]+)/?$ index.php [L]
+RewriteRule ^cache/templates_c/([0-9]+)/?$ index.php [L]
+RewriteRule ^story/([0-9]+)/?$ story.php?id=$1 [L]
+RewriteRule ^story/title/([^/]+)/?$ story.php?title=$1 [L]
+RewriteRule ^story/([0-9]+)/editcomment/([0-9]+)/?$ edit.php?id=$1&commentid=$2
+RewriteRule ^story/([0-9]+)/edit/?$ editlink.php?id=$1
+RewriteRule ^story/([0-9]+)/modify/([a-z]+)/?$ linkadmin.php?id=$1&action=$2
+RewriteRule ^recommend/([a-zA-Z0-9-]+)/?$ recommend.php?id=$1 [L]
+RewriteRule ^category/([^/]+)/?$ index.php?category=$1 [L]
+RewriteRule ^category/([^/]+)/([^/]+)/?$ story.php?title=$2 [L]
+RewriteRule ^upcoming/category/([^/]+)/?$ upcoming.php?category=$1 [L]
+RewriteRule ^upcoming/([a-zA-Z0-9]+)/?$ upcoming.php?part=upcoming&order=$1
+RewriteRule ^inbox/?$ user.php?view=inbox
+RewriteRule ^user/?$ user.php
+RewriteRule ^user/?$ groups.php
+RewriteRule ^user/view/([a-zA-Z0-9-]+)/?$ user.php?view=$1
+RewriteRule ^user/view/([a-zA-Z0-9+]+)/([a-zA-Z0-9+]+)/?$ user.php?view=$1&login=$2
+RewriteRule ^user/view/([a-zA-Z0-9+]+)/login/([a-zA-Z0-9+]+)/?$ user.php?view=$1&login=$2
+RewriteRule ^user/([a-zA-Z-]+)/link/([0-9+]+)/?$ user_add_remove_links.php?action=$1&link=$2
+RewriteRule ^published/?$ index.php
+RewriteRule ^published/([a-zA-Z0-9-]+)/?$ index.php?part=$1
+RewriteRule ^published/([a-zA-Z0-9-]+)/category/([a-zA-Z0-9_-]+)/?$ index.php?part=$1&category=$2
+RewriteRule ^upcoming/([a-zA-Z0-9-]+)/category/([a-zA-Z0-9_-]+)/?$ upcoming.php?part=upcoming&order=$1&category=$2
+RewriteRule ^search/(.+)/?$ search.php?search=$1
+RewriteRule ^searchurl/(.+)/?$ search.php?url=$1
+RewriteRule ^login/?$ login.php
+RewriteRule ^login/([a-zA-Z0-9-]+)/?$ login.php?return=$1
+RewriteRule ^login/([a-zA-Z0-9-]+)/([a-zA-Z0-9-]+)/?$ login.php?return=$1/$2
+RewriteRule ^register/?$ register.php
+RewriteRule ^topusers/?$ topusers.php
+RewriteRule ^about/([a-zA-Z0-9-]+)/?$ faq-$1.php
+RewriteRule ^upcoming/?$ upcoming.php
+RewriteRule ^submit/?$ submit.php
+RewriteRule ^rss/?$ rss.php
+RewriteRule ^rss/([a-zA-Z0-9-]+)/?$ rss.php?status=$1
+RewriteRule ^rss/category/([a-zA-Z0-9_-]+)/?$ rss.php?category=$1
+RewriteRule ^rss/category/upcoming/([a-zA-Z0-9_-]+)/?$ rss.php?status=queued&category=$1
+RewriteRule ^rss/category/published/([a-zA-Z0-9_-]+)/?$ rss.php?status=queued&category=$1
+RewriteRule ^rss/search/([a-zA-Z0-9-]+)/?$ rss.php?search=$1
+RewriteRule ^rss/user/([a-zA-Z0-9-]+)/?$ rss.php?user=$1
+RewriteRule ^rss/user/([a-zA-Z0-9-]+)/([a-zA-Z0-9-]+)/?$ userrss.php?user=$1&status=$2
+RewriteRule ^rssfeeds/?$ rssfeeds.php
+RewriteRule ^trackback/([0-9]+)/?$ trackback.php?id=$1 
+RewriteRule ^profile/?$ profile.php
+RewriteRule ^tagcloud/?$ cloud.php
+RewriteRule ^tagcloud/range/([0-9]+)/?$ cloud.php?range=$1 [L]
+RewriteRule ^tag/(.+)/(.+)/?$ search.php?search=$1&tag=true&from=$2 [QSA,NC,L]
+RewriteRule ^tag/(.+)/?$ search.php?search=$1&tag=true [QSA,NC,L]
+RewriteRule ^live/?$ live.php
+RewriteRule ^out/([^/]+)/?$ out.php?title=$1 [L]
+RewriteRule ^settemplate/?$ settemplate.php
+RewriteRule ^comments/?$ live_comments.php
+RewriteRule ^live_published/?$ live_published.php
+RewriteRule ^unpublished/?$ live_unpublished.php
+RewriteRule ^logout/([a-zA-Z0-9-]+)/([a-zA-Z0-9-]+)/?$ login.php?op=logout&return=$1/$2
+RewriteRule ^published/page/([^/]+)/?$ index.php?page=$1 [L]
+RewriteRule ^published/page/([^/]+)/category/([^/]+)/?$ index.php?page=$1&category=$2 [L]
+RewriteRule ^published/page/([^/]+)/([^/]+)category/([^/]+)/?$ index.php?page=$1&part=$2&category=$3 [L]
+RewriteRule ^index/page/([^/]+)/?$ index.php?page=$1 [L]
+RewriteRule ^index/page/([^/]+)/category/([^/]+)/?$ index.php?page=$1&category=$2 [L]
+RewriteRule ^index/page/([^/]+)/([^/]+)category/([^/]+)/?$ index.php?page=$1&part=$2&category=$3 [L]
+RewriteRule ^upcoming/page/([0-9]+)/?$ upcoming.php?page=$1 [L]
+RewriteRule ^upcoming/page/([^/]+)/category/([^/]+)/?$ upcoming.php?page=$1&category=$2 [L]
+RewriteRule ^upcoming/page/([^/]+)/upcoming/([^/]+)/?$ upcoming.php?page=$1&part=upcoming&order=$2 [L]
+RewriteRule ^upcoming/page/([^/]+)/upcoming=([^/]+)category/([^/]+)/?$ upcoming.php?page=$1&part=upcoming&order=$2&category=$3 [L]
+RewriteRule ^topusers/page/([^/]+)/?$ topusers.php?page=$1 [L]
+RewriteRule ^topusers/page/([^/]+)/sortby/([^/]+)?$ topusers.php?page=$1&sortby=$2 [L]
+RewriteRule ^admin/?$ admin/admin_index.php
+RewriteRule ^admin_links/page/([^/]+)/?$ admin/admin_links.php?page=$1
+RewriteRule ^admin_comments/page/([^/]+)/?$ admin/admin_comments.php?page=$1
+RewriteRule ^admin_users/page/([^/]+)/?$ admin/admin_users.php?page=$1
+RewriteRule ^view/([^/]+)/?$ admin/admin_users.php?mode=view&user=$1
+RewriteRule ^comments/page/([^/]+)/?$ live_comments.php?page=$1 [L]
+RewriteRule ^published/page/([^/]+)/?$ live_published.php?page=$1 [L]
+RewriteRule ^unpublished/page/([^/]+)/?$ live_unpublished.php?page=$1 [L]
+RewriteRule ^published/page/([^/]+)/([^/]+)/?$ index.php?page=$1&part=$2 [L]
+RewriteRule ^published/page/([^/]+)/range/([^/]+)/?$ ?page=$1&range=$2 [L]
+RewriteRule ^search/page/([^/]+)/search/([^/]+)/?$ search.php?page=$1&search=$2 [QSA,NC,L]
+RewriteRule ^user/page/([^/]+)/([^/]+)/([^/]+)/?$ user.php?page=$1&view=$2&login=$3 [L]
+RewriteRule ^statistics/page/([^/]+)/?$ module.php?module=pagestatistics&page=$1
+RewriteRule ^sitemapindex.xml module.php?module=xml_sitemaps_show_sitemap [L]
+RewriteRule ^sitemap-([a-zA-Z0-9]+).xml module.php?module=xml_sitemaps_show_sitemap&i=$1 [L]
+RewriteRule ^page/([^/]+)/?$ page.php?page=$1 [L]
+
+## Basic groups page
+RewriteRule ^groups/?$ groups.php [L]
+RewriteRule ^groups/all/?$ groups.php [L]
+RewriteRule ^groups/all/page/([0-9]+)/?$ groups.php?page=$1 [L]
+
+## Create a group
+RewriteRule ^groups/submit/?$ submit_groups.php
+
+## Groups management
+RewriteRule ^groups/edit/id/([0-9]+)/?$ editgroup.php?id=$1 [L]
+RewriteRule ^groups/delete/id/([0-9]+)/?$ deletegroup.php?id=$1 [L]
+RewriteRule ^groups/([a-zA-Z0-9_-]+)/?$ group_story.php?title=$1 [L]
+RewriteRule ^groups/title/([a-zA-Z0-9_-]+)/?$ group_story.php?title=$1 [L]
+RewriteRule ^groups/id/([0-9]+)/?$ group_story.php?id=$1 [L]
+RewriteRule ^groups/join/id/([0-9]+)/privacy/([a-zA-Z0-9_-]+)/join/([a-zA-Z0-9_-]+)/?$ join_group.php?id=$1&privavy=$2&join=true [L]
+RewriteRule ^groups/unjoin/id/([0-9]+)/privacy/([a-zA-Z0-9_-]+)/join/([a-zA-Z0-9_-]+)/?$ join_group.php?id=$1&privavy=$2&join=false [L]
+RewriteRule ^groups/withdraw/id/([0-9]+)/user_id/([0-9]+)/activate/([a-zA-Z0-9_-]+)/?$ join_group.php?group_id=$1&user_id=$2&activate=withdraw [L]
+
+RewriteRule ^groups/member/admin/id/([0-9]+)/role/([a-zA-Z0-9_-]+)/userid/([0-9]+)/?$ groupadmin.php?id=$1&role=admin&userid=$3 [L]
+RewriteRule ^groups/member/normal/id/([0-9]+)/role/([a-zA-Z0-9_-]+)/userid/([0-9]+)/?$ groupadmin.php?id=$1&role=normal&userid=$3 [L]
+RewriteRule ^groups/member/moderator/([0-9]+)/role/([a-zA-Z0-9_-]+)/userid/([0-9]+)/?$ groupadmin.php?id=$1&role=$2&userid=$3 [L]
+RewriteRule ^groups/member/flagged/([0-9]+)/role/([a-zA-Z0-9_-]+)/userid/([0-9]+)/?$ groupadmin.php?id=$1&role=flagged&userid=$3 [L]
+RewriteRule ^groups/member/banned/id/([0-9]+)/role/([a-zA-Z0-9_-]+)/userid/([0-9]+)/?$ groupadmin.php?id=$1&role=banned&userid=$3 [L]
+
+RewriteRule ^groups/([a-zA-Z0-9_-]+)/?$ group_story.php?title=$1&view=published [L]
+RewriteRule ^groups/([a-zA-Z0-9_-]+)/published/?$ group_story.php?title=$1&view=published [L]
+RewriteRule ^groups/([a-zA-Z0-9_-]+)/published/page/([0-9]+)?$ group_story.php?title=$1&view=published&page=$2 [L]
+RewriteRule ^groups/([a-zA-Z0-9_-]+)/upcoming/?$ group_story.php?title=$1&view=upcoming [L]
+RewriteRule ^groups/([a-zA-Z0-9_-]+)/upcoming/page/([0-9]+)?$ group_story.php?title=$1&view=upcoming&page=$2 [L]
+RewriteRule ^groups/([a-zA-Z0-9_-]+)/shared/?$ group_story.php?title=$1&view=shared [L]
+RewriteRule ^groups/([a-zA-Z0-9_-]+)/shared/page/([0-9]+)?$ group_story.php?title=$1&view=shared&page=$2 [L]
+RewriteRule ^groups/([a-zA-Z0-9_-]+)/members/?$ group_story.php?title=$1&view=members [L]
+RewriteRule ^groups/([a-zA-Z0-9_-]+)/members/page/([0-9]+)?$ group_story.php?title=$1&view=members&page=$2 [L]
+
+##### URL Method 2 ("Clean" URLs) End #####
+
+# Block out any script trying to set a mosConfig value through the URL
+RewriteCond %{QUERY_STRING} mosConfig_[a-zA-Z_]{1,21}(=|\%3D) [OR]
+# Block out any script trying to base64_encode stuff to send via URL
+RewriteCond %{QUERY_STRING} base64_encode.*\(.*\) [OR]
+# Block out any script that includes a <script> tag in URL
+RewriteCond %{QUERY_STRING} (\<|%3C).*script.*(\>|%3E) [NC,OR]
+# Block out any script trying to set a PHP GLOBALS variable via URL
+RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%[0-9A-Z]{0,2}) [OR]
+# Block out any script trying to modify a _REQUEST variable via URL
+RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%[0-9A-Z]{0,2})
+
+#Block pycurl bot
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} ^pycurl/ [NC]
+RewriteRule .* - [F]
+
+
+RewriteRule ^sitemapindex.xml module.php?module=xml_sitemaps_show_sitemap [L]
+RewriteRule ^sitemap-([0-9a-z]+).xml module.php?module=xml_sitemaps_show_sitemap&i=$1 [L]

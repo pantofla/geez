@@ -1,0 +1,1 @@
+{if $UseAvatars neq "0"}<span id="ls_avatar-{$link_shakebox_index}"><img src="{$Avatar_ImgSrcs}" alt="Avatar" /></span>{/if}

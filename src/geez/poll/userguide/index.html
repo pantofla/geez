@@ -1,0 +1,218 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+
+<title>Zoki Poll package</title>
+
+<link rel='stylesheet' type='text/css' media='all' href='userguide.css' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv='expires' content='-1' />
+<meta http-equiv= 'pragma' content='no-cache' />
+<meta name='robots' content='all' />
+<meta name='author' content='bulat' />
+<meta name='description' content='Dynamic Poll package' />
+
+</head>
+<body>
+
+<div id="masthead"><h1>Zoki Poll package</h1></div>
+
+
+<!-- START CONTENT -->
+<div id="content">
+
+<h1>User Guide</h1>
+<p>
+	This package is light and easy-to-use poll system, 
+	which can be simply integrated in almost every site. 
+	It written in HTML, CSS and JavaScript with small backend files in PHP. 
+	But developer is still required for advanced integration. 
+</p>
+
+<h2>Features:</h2>
+<p>
+	<ul>
+		<li>Don't require DataBase (optional)</li>
+		<li>No page reloading</li>
+		<li>Based on AJAX (asynchronous requests for data)</li>
+		<li>Does not overload server - HTML generates and inserts on client's side</li>
+		<li>4 view modes</li>
+		<li>Fully castomisible appearance</li>
+		<li>Duplicate vote restriction based on cookies</li>
+	</ul>
+</p>
+
+<h2>Configuring the Package(poll_config.php)</h2>
+
+<p>
+	Upload poll files to any folder on your server. We suggest to create separate one.
+</p>
+
+<h3>Poll Url</h3>
+
+<p>
+	Change url in poll_config.php file. It should refer to folder where you 
+	locate poll files. This url will be used for locate file async.php and 
+	subfolder with poll xml files. Take attention on 'www' prefix. If your site name 
+	have 'www' in it's name, you should include it and vise versa. 
+</p>
+
+<code>
+	$pollConfig['site']['url'] = 'http://www.domain.com/path_to_poll';
+</code>
+
+<p>
+	this url means that poll will try to find file async.php using url 
+	<br />
+	<i>http://www.domain.com/path_to_poll/async.php</i>
+</p>
+
+<h3>Duplicate vote restriction</h3>
+
+<p>
+	It is based on cookies. If user votes, the cookie with poll id sets 
+	for 24 hours. Poll checks for such cookies and shows straightly result 
+	page in case of particular cookie exists.
+</p>
+
+<code>
+	$pollConfig['poll']['uniqcheck'] = '1';
+</code>
+
+<p>
+	By default this option is enabled.
+</p>
+
+<h3>Data sources</h3>
+<p>
+	Poll can work in 2 modes. These modes are 2 ways of gathering and store 
+	data for poll - Database or XML files. 
+</p>
+
+<p>
+	XML files mode is the simplest way to integrate poll. More over, this is 
+	only one way to make this polls work at hosting plans without database support. 
+</p>
+
+<p>
+	On the other hand - Database mode means more complicated integration method, 
+	but offers more flexibility for poll administration and manipulation. To use 
+	this option you should be familiar with PHP. This way is needed some php coding. 
+</p>
+
+<p>
+	There are lines in config file:
+</p>
+
+<code>
+	$pollConfig['poll']['datasource'] = 'file';
+	<br />
+	$pollConfig['poll']['datapath'] = './xml';
+</code>
+
+<p>
+	Value 'file' means that all data will be gathered from and saved in xml files. 
+	Value of variable 'datapath' is folder for xml files. The files name format 
+	is 'poll_' + poll id number + '.xml'. Don't forget to set up file permissions to 666. 
+</p>
+
+<p>
+	If you set value of 'datasource' to 'base' - you should create it. 
+	Suggested database prototype stored in file './sql/poll.sql'. 
+	<i>Please note: it's supposed that you will write php backend on your own.</i>
+	Administration tools are not included in this package. 
+	If this option is set - poll will try to collect data from database, 
+	but it does not care how to create new poll, edit it, etc. 
+</p>
+
+<h2>Running the Package</h2>
+
+<p>
+	Main file is 'zpoll.php'. If you run it via your browser you'll see the poll box.
+</p>
+
+<p>
+	In file 'zpoll.php' defined 'Id' variable, that means id of poll to load. 
+	If 'datasource' value set to file - script will try to load file 'xml/poll_1.xml'; 
+	Otherwise it will try to get poll from database row with id = 1; 
+</p>
+
+<code>
+	$Id = 1;
+</code>
+
+<p>
+	If you want to load another poll - just change this number. 
+	(surely poll with requested id should exist)
+</p>
+
+<p>
+	This file is example. If you want to integrate poll in any web page with php 
+	support you should remove html header and footer from zpoll.php file; 
+	then copy-paste content of file where you want. Take care of css, js and config 
+	files that included into 'zpoll.php' file and change path to them if it is necessary. 
+	<br />
+	You can place poll code anywhere you want. The only one requirement is access to 
+	css, js and poll_config files. 
+</p>
+
+<p>
+	File 'async.php' is used for background server-side operations (get xml data, save result). 
+	So, it needs proper path to config file too.
+</p>
+
+<h2>Changing poll appearance</h2>
+
+<p>
+	All design properties stored in css file. You can change the specifications of classes, 
+	but not their names. More over, some classes have important properties that make poll work. 
+	So, it's strongly recommended to backup css file before any changes. 
+</p>
+
+<h2>Debugging the Package</h2>
+
+<p>
+	First of all - check value of 
+</p>	
+
+<code>
+	$pollConfig['site']['url']
+</code>
+
+<p>	
+	The url of zpoll.php (or any other page with its code) and url in config file 
+	should both have 'www' or both be without it. Otherwise the poll will not work at all. 
+</p>
+
+<p>
+	Then, in browser call file
+	<br />
+	<i>async.php?action=get_xml_poll_data&pollid=1</i>
+</p>
+	
+<p>
+	In depends of poll settings, this GET request means that one of the following 
+	functions will be called:  'get_xml_poll_data_db' or 'get_xml_poll_data_file' 
+	with argument equal to 'pollid' value from file 'async.php'. 
+</p>
+
+<p>
+	The result should be xml data printed in your browser. 
+	<br />
+	If instead of XML you see blank page or PHP errors - you should debug this 
+	file or contact us in any form.
+</p>
+
+</div>
+<!-- END CONTENT -->
+
+
+<div id="footer">
+<p>
+	Distributed under <a href="http://www.gnu.org/licenses/">LGPL</a>
+</p>
+</div>
+
+</body>
+</html>

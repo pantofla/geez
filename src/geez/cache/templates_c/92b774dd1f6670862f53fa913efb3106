@@ -1,0 +1,1428 @@
+O:9:"MagpieRSS":22:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:25:{i:0;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/3y49IXavVDE";s:7:"pubdate";s:31:"Wed, 29 Jul 2009 03:04:38 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T14:01:17.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:35:"Love and Romance Questions ANSWERED";s:11:"description";s:2835:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=3y49IXavVDE"><img alt="" src="http://i.ytimg.com/vi/3y49IXavVDE/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=3y49IXavVDE">Love and Romance Questions ANSWERED</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>In which John answers real questions about love, relationships, like-liking, first kisses, the fear of rejection, boyfriends, girlfriends, and porposing.</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=vlogbrothers">vlogbrothers</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+70990</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">5167
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">04:00</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=22">People &amp; Blogs</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=3y49IXavVDE";s:6:"author";s:12:"vlogbrothers";s:7:"summary";s:2835:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=3y49IXavVDE"><img alt="" src="http://i.ytimg.com/vi/3y49IXavVDE/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=3y49IXavVDE">Love and Romance Questions ANSWERED</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>In which John answers real questions about love, relationships, like-liking, first kisses, the fear of rejection, boyfriends, girlfriends, and porposing.</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=vlogbrothers">vlogbrothers</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+70990</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">5167
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">04:00</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=22">People &amp; Blogs</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1248836678;}i:1;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/bZvSD1O86M8";s:7:"pubdate";s:31:"Wed, 29 Jul 2009 03:35:51 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T16:30:41.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:26:"My Dad is so Asian (Ep.12)";s:11:"description";s:3170:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=bZvSD1O86M8"><img alt="" src="http://i.ytimg.com/vi/bZvSD1O86M8/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=bZvSD1O86M8">My Dad is so Asian (Ep.12)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>*Update* The poll has closed!
+http://www.poll.fm/12zp3
+Invisible Children won! the money from the month of July will go to this charity! Thanks for voting :)
+
+More info about the event on July 31st at Magic Mountain! Download the coupon!
+My Website:
+http://www.kevjumba.com
+
+Thanks for watching and subscribing to JumbaFund, every view on this video counts toward charity!
+
+If you like this video, go watch:
+http://www.youtube.com/watch?v=ayo7JQ_3B18
+
+Follow me on Twitter!:
+http://www.twitter.com/kevjumba</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=JumbaFund">JumbaFund</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+791641</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">21565
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">03:14</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=24">Entertainment</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=bZvSD1O86M8";s:6:"author";s:9:"JumbaFund";s:7:"summary";s:3170:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=bZvSD1O86M8"><img alt="" src="http://i.ytimg.com/vi/bZvSD1O86M8/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=bZvSD1O86M8">My Dad is so Asian (Ep.12)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>*Update* The poll has closed!
+http://www.poll.fm/12zp3
+Invisible Children won! the money from the month of July will go to this charity! Thanks for voting :)
+
+More info about the event on July 31st at Magic Mountain! Download the coupon!
+My Website:
+http://www.kevjumba.com
+
+Thanks for watching and subscribing to JumbaFund, every view on this video counts toward charity!
+
+If you like this video, go watch:
+http://www.youtube.com/watch?v=ayo7JQ_3B18
+
+Follow me on Twitter!:
+http://www.twitter.com/kevjumba</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=JumbaFund">JumbaFund</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+791641</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">21565
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">03:14</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=24">Entertainment</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1248838551;}i:2;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/G8-0R2ckE8E";s:7:"pubdate";s:31:"Thu, 07 May 2009 12:47:36 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T16:33:50.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:33:"Scrubs "My Finale"  The Ending HD";s:11:"description";s:3871:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=G8-0R2ckE8E"><img alt="" src="http://i.ytimg.com/vi/G8-0R2ckE8E/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=G8-0R2ckE8E">Scrubs &quot;My Finale&quot;  The Ending HD</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>The end of the last episode of Scrubs with Zack Braff.
+
+Ultimately this ending was a supurb and to a sensational show so well done by bill lawrance and all the cast. This is where JD says goodbye to his history at sacred heart and looks to the future. This is His Final wrap up summary
+
+Starring
+Dr. John Dorian / JD (Zach Braff)
+Dr. Elliot Reid (Sarah Chalke)
+Dr. Perry Cox (John C mcguinley)
+Dr. Chris Turk
+Nurse Carla Espinosa (Judy reyes)
+Janitor (Neil Flynn)
+Dr. Bob Kelso
+
+Note: I do not own Scrubs, nor anything affiliated with the show.
+Scrubs appears courtesy of ABC Studios and Doozier Entertainment.
+
+Views
+* 100 *                 (X)
+* 1000 *               (X)
+* 5000 *   (X)
+* 10000 *             (X)
+* 50000 *             (X)
+* 100000 *             (  )
+
+Ratings
+* 10 *                    (X)
+* 100 *                  (X)
+* 200 *                (X)
+* 300 *                 (X)
+* 400 *                 (X)
+* 500 *                 (X)
+* 600 *                 (X)
+* 700 *                 (X)
+* 800 *                 (X)
+* 900 *                 (X)
+* 1000 *                 (X)
+* 2000 *                 (X)
+* 3000 *                 (X)
+* 4000 *                 (  )</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=TheVillegunnar">TheVillegunnar</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+102552</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">4933
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">09:02</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=1">Film &amp; Animation</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=G8-0R2ckE8E";s:6:"author";s:14:"TheVillegunnar";s:7:"summary";s:3871:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=G8-0R2ckE8E"><img alt="" src="http://i.ytimg.com/vi/G8-0R2ckE8E/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=G8-0R2ckE8E">Scrubs &quot;My Finale&quot;  The Ending HD</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>The end of the last episode of Scrubs with Zack Braff.
+
+Ultimately this ending was a supurb and to a sensational show so well done by bill lawrance and all the cast. This is where JD says goodbye to his history at sacred heart and looks to the future. This is His Final wrap up summary
+
+Starring
+Dr. John Dorian / JD (Zach Braff)
+Dr. Elliot Reid (Sarah Chalke)
+Dr. Perry Cox (John C mcguinley)
+Dr. Chris Turk
+Nurse Carla Espinosa (Judy reyes)
+Janitor (Neil Flynn)
+Dr. Bob Kelso
+
+Note: I do not own Scrubs, nor anything affiliated with the show.
+Scrubs appears courtesy of ABC Studios and Doozier Entertainment.
+
+Views
+* 100 *                 (X)
+* 1000 *               (X)
+* 5000 *   (X)
+* 10000 *             (X)
+* 50000 *             (X)
+* 100000 *             (  )
+
+Ratings
+* 10 *                    (X)
+* 100 *                  (X)
+* 200 *                (X)
+* 300 *                 (X)
+* 400 *                 (X)
+* 500 *                 (X)
+* 600 *                 (X)
+* 700 *                 (X)
+* 800 *                 (X)
+* 900 *                 (X)
+* 1000 *                 (X)
+* 2000 *                 (X)
+* 3000 *                 (X)
+* 4000 *                 (  )</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=TheVillegunnar">TheVillegunnar</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+102552</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">4933
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">09:02</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=1">Film &amp; Animation</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1241700456;}i:3;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/BpWM0FNPZSs";s:7:"pubdate";s:31:"Fri, 05 Jun 2009 18:53:32 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T19:43:30.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:28:"DEADLINE post-it stop motion";s:11:"description";s:3636:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=BpWM0FNPZSs"><img alt="" src="http://i.ytimg.com/vi/BpWM0FNPZSs/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=BpWM0FNPZSs">DEADLINE post-it stop motion</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Here is THE MAKING OF : http://www.youtube.com/watch?v=ArJYvaCCB3c
+
+This is my senior project at Savannah College of Art and Design. Where my idea comes from is that every time when I am busy, I feel that I am not fighting with my works, I am fighting with those post-it notes and deadline. I manipulating the post-it notes to do pixel-like stop motion and there are some interactions between real actor and post-its.
+
+Directed by Bang-yao Liu 
+Music by R&ouml;yksopp (http://royksopp.com)
+Sound design by Ian Vargo, Shaun Burdick
+Actor: Chun-yao Huang
+
+----------------------------------------------------------------------
+Just want to say thank you to every one
+The responses are really beyond my expectation...
+Especially thank to my teacher and my friends who help me a lot. 
+
+Thank to Ashton Kutcher...that was unbelievable for me!!! Appreciate you like it !! : )
+
+---------------------------------------------------------------------
+CONTACT: abun825@hotmail.com</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=bunliu">bunliu</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+2361386</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">16235
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">01:55</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=1">Film &amp; Animation</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=BpWM0FNPZSs";s:6:"author";s:6:"bunliu";s:7:"summary";s:3636:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=BpWM0FNPZSs"><img alt="" src="http://i.ytimg.com/vi/BpWM0FNPZSs/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=BpWM0FNPZSs">DEADLINE post-it stop motion</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Here is THE MAKING OF : http://www.youtube.com/watch?v=ArJYvaCCB3c
+
+This is my senior project at Savannah College of Art and Design. Where my idea comes from is that every time when I am busy, I feel that I am not fighting with my works, I am fighting with those post-it notes and deadline. I manipulating the post-it notes to do pixel-like stop motion and there are some interactions between real actor and post-its.
+
+Directed by Bang-yao Liu 
+Music by R&ouml;yksopp (http://royksopp.com)
+Sound design by Ian Vargo, Shaun Burdick
+Actor: Chun-yao Huang
+
+----------------------------------------------------------------------
+Just want to say thank you to every one
+The responses are really beyond my expectation...
+Especially thank to my teacher and my friends who help me a lot. 
+
+Thank to Ashton Kutcher...that was unbelievable for me!!! Appreciate you like it !! : )
+
+---------------------------------------------------------------------
+CONTACT: abun825@hotmail.com</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=bunliu">bunliu</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+2361386</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">16235
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">01:55</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=1">Film &amp; Animation</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1244228012;}i:4;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/UiInBOVHpO8";s:7:"pubdate";s:31:"Thu, 16 Oct 2008 21:30:33 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T16:51:42.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:40:"Beatbox Dub FX 10/10/2008 'Love Someone'";s:11:"description";s:2813:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=UiInBOVHpO8"><img alt="" src="http://i.ytimg.com/vi/UiInBOVHpO8/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=UiInBOVHpO8">Beatbox Dub FX 10/10/2008 &#39;Love Someone&#39;</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Dub FX performs &#39;Love Someone&#39; live in Bristol, UK. From the
+album &#39;Everythinks a Ripple&#39;, available from www.dubfx.net</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=dowdenboy">dowdenboy</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+1150249</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">6680
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">07:27</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=10">Music</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=UiInBOVHpO8";s:6:"author";s:9:"dowdenboy";s:7:"summary";s:2813:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=UiInBOVHpO8"><img alt="" src="http://i.ytimg.com/vi/UiInBOVHpO8/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=UiInBOVHpO8">Beatbox Dub FX 10/10/2008 &#39;Love Someone&#39;</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Dub FX performs &#39;Love Someone&#39; live in Bristol, UK. From the
+album &#39;Everythinks a Ripple&#39;, available from www.dubfx.net</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=dowdenboy">dowdenboy</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+1150249</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">6680
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">07:27</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=10">Music</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1224192633;}i:5;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/I1qHVVbYG8Y";s:7:"pubdate";s:31:"Fri, 24 Jul 2009 16:30:45 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T19:46:31.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:21:"Simon's Cat 'Fly Guy'";s:11:"description";s:2753:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=I1qHVVbYG8Y"><img alt="" src="http://i.ytimg.com/vi/I1qHVVbYG8Y/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=I1qHVVbYG8Y">Simon&#39;s Cat &#39;Fly Guy&#39;</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>A hungry cat resorts to increasingly desperate measures to catch a housefly.</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=simonscat">simonscat</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+1439990</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">12433
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">02:23</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=15">Pets &amp; Animals</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=I1qHVVbYG8Y";s:6:"author";s:9:"simonscat";s:7:"summary";s:2753:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=I1qHVVbYG8Y"><img alt="" src="http://i.ytimg.com/vi/I1qHVVbYG8Y/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=I1qHVVbYG8Y">Simon&#39;s Cat &#39;Fly Guy&#39;</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>A hungry cat resorts to increasingly desperate measures to catch a housefly.</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=simonscat">simonscat</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+1439990</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">12433
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">02:23</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=15">Pets &amp; Animals</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1248453045;}i:6;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/u7deClndzQw";s:7:"pubdate";s:31:"Wed, 15 Jul 2009 23:31:34 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T18:58:09.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:94:"Kuroshio Sea - 2nd largest aquarium tank in the world - (song is Please don't go by Barcelona)";s:11:"description";s:3696:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=u7deClndzQw"><img alt="" src="http://i.ytimg.com/vi/u7deClndzQw/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=u7deClndzQw">Kuroshio Sea - 2nd largest aquarium tank in the world - (song is Please don&#39;t go by Barcelona)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Shot by: http://jonrawlinson.com
+The music is &quot;Please don&#39;t go&quot; by Barcelona. PLEASE BUY THIS SONG ON iTUNES:  http://bit.ly/1zAVu
+Barcelona&#39;s website: http://www.myspace.com/barcelona
+
+Follow me on Twitter here: http://twitter.com/jonrawlinson
+
+This was shot at the Okinawa Churaumi Aquarium in Japan.  http://www.kaiyouhaku.com/en/
+
+Download the desktop wallpaper: http://bit.ly/19rTC5
+
+Buy the album Absolutes by Barcelona on the iTunes store: http://bit.ly/o57OL
+
+The main tank called the &#39;Kuroshio Sea&#39; holds 7,500-cubic meters (1,981,290 gallons) of water and features the world&#39;s second largest acrylic glass panel, measuring 8.2 meters by 22.5 meters with a thickness of 60 centimeters. Whale sharks and manta rays are kept amongst many other fish species in the main tank.
+
+WE MUST PROTECT OUR OCEANS!
+
+This was shot using a Canon 5DMKII with a 28-135mm lens.
+
+You should visit my website: http://jonrawlinson.com</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=theradblog">theradblog</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+1495740</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">7376
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">04:34</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=19">Travel &amp; Events</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=u7deClndzQw";s:6:"author";s:10:"theradblog";s:7:"summary";s:3696:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=u7deClndzQw"><img alt="" src="http://i.ytimg.com/vi/u7deClndzQw/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=u7deClndzQw">Kuroshio Sea - 2nd largest aquarium tank in the world - (song is Please don&#39;t go by Barcelona)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Shot by: http://jonrawlinson.com
+The music is &quot;Please don&#39;t go&quot; by Barcelona. PLEASE BUY THIS SONG ON iTUNES:  http://bit.ly/1zAVu
+Barcelona&#39;s website: http://www.myspace.com/barcelona
+
+Follow me on Twitter here: http://twitter.com/jonrawlinson
+
+This was shot at the Okinawa Churaumi Aquarium in Japan.  http://www.kaiyouhaku.com/en/
+
+Download the desktop wallpaper: http://bit.ly/19rTC5
+
+Buy the album Absolutes by Barcelona on the iTunes store: http://bit.ly/o57OL
+
+The main tank called the &#39;Kuroshio Sea&#39; holds 7,500-cubic meters (1,981,290 gallons) of water and features the world&#39;s second largest acrylic glass panel, measuring 8.2 meters by 22.5 meters with a thickness of 60 centimeters. Whale sharks and manta rays are kept amongst many other fish species in the main tank.
+
+WE MUST PROTECT OUR OCEANS!
+
+This was shot using a Canon 5DMKII with a 28-135mm lens.
+
+You should visit my website: http://jonrawlinson.com</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=theradblog">theradblog</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+1495740</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">7376
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">04:34</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=19">Travel &amp; Events</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1247700694;}i:7;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/2I0QN-FYkpw";s:7:"pubdate";s:31:"Mon, 03 Nov 2008 02:36:32 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T14:44:59.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:48:"Peter Schiff Was Right 2006 - 2007 (2nd Edition)";s:11:"description";s:2860:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=2I0QN-FYkpw"><img alt="" src="http://i.ytimg.com/vi/2I0QN-FYkpw/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=2I0QN-FYkpw">Peter Schiff Was Right 2006 - 2007 (2nd Edition)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>This is a set of clips of Peter Schiff from 2006 and 2007.  I added labels and 2008 predictions to the first video.  More videos at http://www.youtube.com/user/SchiffReport</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=jdouche">jdouche</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+1450047</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">5994
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">09:59</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=25">News &amp; Politics</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=2I0QN-FYkpw";s:6:"author";s:7:"jdouche";s:7:"summary";s:2860:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=2I0QN-FYkpw"><img alt="" src="http://i.ytimg.com/vi/2I0QN-FYkpw/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=2I0QN-FYkpw">Peter Schiff Was Right 2006 - 2007 (2nd Edition)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>This is a set of clips of Peter Schiff from 2006 and 2007.  I added labels and 2008 predictions to the first video.  More videos at http://www.youtube.com/user/SchiffReport</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=jdouche">jdouche</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+1450047</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">5994
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">09:59</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=25">News &amp; Politics</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1225679792;}i:8;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/miC8gh3DTWw";s:7:"pubdate";s:31:"Sun, 02 Aug 2009 18:19:11 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T14:35:55.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:38:"Mean Kitty - Editor's Assistant 8.1.09";s:11:"description";s:3093:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=miC8gh3DTWw"><img alt="" src="http://i.ytimg.com/vi/miC8gh3DTWw/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=miC8gh3DTWw">Mean Kitty - Editor&#39;s Assistant 8.1.09</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Here&#39;s a link to &quot;Ze Time Machine&quot;:
+http://www.youtube.com/watch?v=idNvFud71vE
+
+These vlogs are just little daily glimpses into the lives of our cats Sparta and Loki. Posting daily from 7.29.2009 - 9.1.2009 while Stephanie and I prepare for our wedding on 9.6.2009.
+
+MUSIC:
+&quot;I&#39;ll Show You Some Tricks&quot;
+by Masta Hanksta
+Available on iTunes!
+http://www.youtube.com/djscratchdog</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=TheMeanKitty">TheMeanKitty</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+212556</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">7516
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">01:27</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=15">Pets &amp; Animals</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=miC8gh3DTWw";s:6:"author";s:12:"TheMeanKitty";s:7:"summary";s:3093:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=miC8gh3DTWw"><img alt="" src="http://i.ytimg.com/vi/miC8gh3DTWw/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=miC8gh3DTWw">Mean Kitty - Editor&#39;s Assistant 8.1.09</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Here&#39;s a link to &quot;Ze Time Machine&quot;:
+http://www.youtube.com/watch?v=idNvFud71vE
+
+These vlogs are just little daily glimpses into the lives of our cats Sparta and Loki. Posting daily from 7.29.2009 - 9.1.2009 while Stephanie and I prepare for our wedding on 9.6.2009.
+
+MUSIC:
+&quot;I&#39;ll Show You Some Tricks&quot;
+by Masta Hanksta
+Available on iTunes!
+http://www.youtube.com/djscratchdog</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=TheMeanKitty">TheMeanKitty</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+212556</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">7516
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">01:27</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=15">Pets &amp; Animals</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1249237151;}i:9;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/nwUPGhvRfUY";s:7:"pubdate";s:31:"Mon, 10 Aug 2009 21:09:51 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T19:50:58.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:28:"I love ATLANTA  (8/9/09-158)";s:11:"description";s:2753:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=nwUPGhvRfUY"><img alt="" src="http://i.ytimg.com/vi/nwUPGhvRfUY/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=nwUPGhvRfUY">I love ATLANTA  (8/9/09-158)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Tweet! http://www.twitter.com/shaycarl
+
+Kinda busy getting everything ready for the move.</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=SHAYTARDS">SHAYTARDS</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+70278</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">6470
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">05:51</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=24">Entertainment</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=nwUPGhvRfUY";s:6:"author";s:9:"SHAYTARDS";s:7:"summary";s:2753:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=nwUPGhvRfUY"><img alt="" src="http://i.ytimg.com/vi/nwUPGhvRfUY/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=nwUPGhvRfUY">I love ATLANTA  (8/9/09-158)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Tweet! http://www.twitter.com/shaycarl
+
+Kinda busy getting everything ready for the move.</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=SHAYTARDS">SHAYTARDS</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+70278</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">6470
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">05:51</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=24">Entertainment</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1249938591;}i:10;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/CFSI9X6R1sE";s:7:"pubdate";s:31:"Thu, 25 Jun 2009 08:45:17 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T17:31:00.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:21:""The Climb" ft. Ahmir";s:11:"description";s:2827:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=CFSI9X6R1sE"><img alt="" src="http://i.ytimg.com/vi/CFSI9X6R1sE/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=CFSI9X6R1sE">&quot;The Climb&quot; ft. Ahmir</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Collaboration with Ahmir to remake Miley Cyrus&#39; hit &quot;The Climb&quot;
+
+Check out more music by Ahmir here on youtube or on myspace:
+
+http://www.youtube.com/ahmirtv</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=kemlye1">kemlye1</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+575822</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">8714
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">02:46</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=10">Music</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=CFSI9X6R1sE";s:6:"author";s:7:"kemlye1";s:7:"summary";s:2827:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=CFSI9X6R1sE"><img alt="" src="http://i.ytimg.com/vi/CFSI9X6R1sE/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=CFSI9X6R1sE">&quot;The Climb&quot; ft. Ahmir</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Collaboration with Ahmir to remake Miley Cyrus&#39; hit &quot;The Climb&quot;
+
+Check out more music by Ahmir here on youtube or on myspace:
+
+http://www.youtube.com/ahmirtv</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=kemlye1">kemlye1</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+575822</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">8714
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">02:46</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=10">Music</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1245919517;}i:11;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/4xjPODksI08";s:7:"pubdate";s:31:"Thu, 05 Feb 2009 22:25:21 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T19:49:40.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:53:"One Love | Playing For Change | Song Around the World";s:11:"description";s:4052:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=4xjPODksI08"><img alt="" src="http://i.ytimg.com/vi/4xjPODksI08/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=4xjPODksI08">One Love | Playing For Change | Song Around the World</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>http://playingforchange.com - From the award-winning documentary, &quot;Playing For Change: Peace Through Music&quot;, comes an incredible rendition of the legendary Bob Marley song &quot;One Love&quot; with Keb&#39; Mo&#39; and Manu Chao.  This is the third video from the documentary and a follow up to the classic &quot;Stand By Me&quot; and the incredible &quot;Don&#39;t Worry.&quot; Released in celebration of Bob Marley&#39;s birthday on February 6th, this tribute to the legend is performed by musicians around the world adding their part to the song as it traveled the globe. 
+
+Order the CD/DVD Playing For Change Songs Around The World&quot; now at amazon.com!
+http://tinyurl.com/c6mhgd
+
+Playing For Change &quot;Songs Around The World&quot; is now available at your neighborhood Starbucks and everywhere music is sold.
+
+Order the &quot;One Love,&quot; &quot;War/No More Trouble, &quot;Stand By Me,&quot; and &quot;Don&#39;t Worry,&quot; videos and the new Songs Around The World album now at itunes!
+http://tinyurl.com/pfcitunes
+
+Sign up at http://playingforchange.com for updates and exclusive content. You can also buy cool stuff in our new online store!
+
+Join the Playing for Change Online Street Team at:
+http://ufanz.com/teams/playingforchange
+
+Join the movement to help inspire people from around the world to come together through music.</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=PlayingForChange">PlayingForChange</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+1828100</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">5766
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">05:08</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=10">Music</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=4xjPODksI08";s:6:"author";s:16:"PlayingForChange";s:7:"summary";s:4052:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=4xjPODksI08"><img alt="" src="http://i.ytimg.com/vi/4xjPODksI08/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=4xjPODksI08">One Love | Playing For Change | Song Around the World</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>http://playingforchange.com - From the award-winning documentary, &quot;Playing For Change: Peace Through Music&quot;, comes an incredible rendition of the legendary Bob Marley song &quot;One Love&quot; with Keb&#39; Mo&#39; and Manu Chao.  This is the third video from the documentary and a follow up to the classic &quot;Stand By Me&quot; and the incredible &quot;Don&#39;t Worry.&quot; Released in celebration of Bob Marley&#39;s birthday on February 6th, this tribute to the legend is performed by musicians around the world adding their part to the song as it traveled the globe. 
+
+Order the CD/DVD Playing For Change Songs Around The World&quot; now at amazon.com!
+http://tinyurl.com/c6mhgd
+
+Playing For Change &quot;Songs Around The World&quot; is now available at your neighborhood Starbucks and everywhere music is sold.
+
+Order the &quot;One Love,&quot; &quot;War/No More Trouble, &quot;Stand By Me,&quot; and &quot;Don&#39;t Worry,&quot; videos and the new Songs Around The World album now at itunes!
+http://tinyurl.com/pfcitunes
+
+Sign up at http://playingforchange.com for updates and exclusive content. You can also buy cool stuff in our new online store!
+
+Join the Playing for Change Online Street Team at:
+http://ufanz.com/teams/playingforchange
+
+Join the movement to help inspire people from around the world to come together through music.</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=PlayingForChange">PlayingForChange</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+1828100</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">5766
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">05:08</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=10">Music</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1233872721;}i:12;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/9yvyDB63f8s";s:7:"pubdate";s:31:"Tue, 03 Feb 2009 00:57:42 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T16:24:17.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:17:"Unite Against WMG";s:11:"description";s:3651:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=9yvyDB63f8s"><img alt="" src="http://i.ytimg.com/vi/9yvyDB63f8s/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=9yvyDB63f8s">Unite Against WMG</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>The Warner Music Group are taking control of Youtube, limiting our use of this great site. WMG are muting our videos and stopping cover singers, fan video artists and music video makers from posting their work on Youtube. How is that fair?
+
+They are not pyhsically sharing any music, which isn&#39;t illegal. No one is claiming the music are their own and no one making their videos for profit. It&#39;s a joke how they&#39;re allowed to control our use of YT and it&#39;s not fair.
+
+We need to take a stand now.
+
+It&#39;s effecting many Youtubers and this needs stamping out before it takes over the whole community.
+Watch it!
+Rate it!
+Favourite it!
+Comment it!
+Share it!
+
+Get this video as popular as possible, get it on the first page and get it noticed! WMG need to go before they ruin Youtube. If they carry on, Youtube won&#39;t be the site it is today by the end of the year, they will completely transform Youtube into something ugly! We can&#39;t let that happen!
+
+UNIT AGAINST WMG!</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=dantay2405">dantay2405</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+53448</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">9404
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">00:41</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=22">People &amp; Blogs</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=9yvyDB63f8s";s:6:"author";s:10:"dantay2405";s:7:"summary";s:3651:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=9yvyDB63f8s"><img alt="" src="http://i.ytimg.com/vi/9yvyDB63f8s/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=9yvyDB63f8s">Unite Against WMG</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>The Warner Music Group are taking control of Youtube, limiting our use of this great site. WMG are muting our videos and stopping cover singers, fan video artists and music video makers from posting their work on Youtube. How is that fair?
+
+They are not pyhsically sharing any music, which isn&#39;t illegal. No one is claiming the music are their own and no one making their videos for profit. It&#39;s a joke how they&#39;re allowed to control our use of YT and it&#39;s not fair.
+
+We need to take a stand now.
+
+It&#39;s effecting many Youtubers and this needs stamping out before it takes over the whole community.
+Watch it!
+Rate it!
+Favourite it!
+Comment it!
+Share it!
+
+Get this video as popular as possible, get it on the first page and get it noticed! WMG need to go before they ruin Youtube. If they carry on, Youtube won&#39;t be the site it is today by the end of the year, they will completely transform Youtube into something ugly! We can&#39;t let that happen!
+
+UNIT AGAINST WMG!</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=dantay2405">dantay2405</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+53448</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">9404
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">00:41</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=22">People &amp; Blogs</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1233622662;}i:13;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/_ltP0AJvwjY";s:7:"pubdate";s:31:"Fri, 03 Jul 2009 23:08:07 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T16:32:32.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:32:"Summer and Ending Hunger (Ep.11)";s:11:"description";s:2915:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=_ltP0AJvwjY"><img alt="" src="http://i.ytimg.com/vi/_ltP0AJvwjY/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=_ltP0AJvwjY">Summer and Ending Hunger (Ep.11)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>It&#39;s that time of the month again!
+The charity for June:
+http://www.endhunger.com
+
+Twitter:
+http://www.twitter.com/kevjumba
+Add me on FB:
+http://www.facebook.com/kevjumba
+
+Music in this video by: 
+MOOSE
+http://www.myspace.com/moosethecoolest</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=JumbaFund">JumbaFund</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+395299</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">13300
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">03:14</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=24">Entertainment</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=_ltP0AJvwjY";s:6:"author";s:9:"JumbaFund";s:7:"summary";s:2915:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=_ltP0AJvwjY"><img alt="" src="http://i.ytimg.com/vi/_ltP0AJvwjY/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=_ltP0AJvwjY">Summer and Ending Hunger (Ep.11)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>It&#39;s that time of the month again!
+The charity for June:
+http://www.endhunger.com
+
+Twitter:
+http://www.twitter.com/kevjumba
+Add me on FB:
+http://www.facebook.com/kevjumba
+
+Music in this video by: 
+MOOSE
+http://www.myspace.com/moosethecoolest</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=JumbaFund">JumbaFund</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+395299</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">13300
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">03:14</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=24">Entertainment</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1246662487;}i:14;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/UvyOpFCkoqM";s:7:"pubdate";s:31:"Thu, 21 May 2009 20:37:19 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T16:24:14.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:32:"Scaring Floormates pt. 2 (Ep. 5)";s:11:"description";s:3171:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=UvyOpFCkoqM"><img alt="" src="http://i.ytimg.com/vi/UvyOpFCkoqM/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=UvyOpFCkoqM">Scaring Floormates pt. 2 (Ep. 5)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Scaring Floormates pt. 1:
+http://www.youtube.com/watch?v=-66hOIXgHDo
+
+There were numerous requests to do another Scaring Floormates video, so we came up with another way to scare someone ;) The two victims in this video have high pitched screams so be sure to turn down your volume when it happens, hahaha
+
+Thanks for watching and subscribing to JumbaFund, every view and subscription helps charity!
+
+Music by:
+http://www.myspace.com/djdeckstream
+
+Follow me on Twitter:
+http://www.twitter.com/kevjumba</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=JumbaFund">JumbaFund</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+791463</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">18024
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">03:14</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=24">Entertainment</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=UvyOpFCkoqM";s:6:"author";s:9:"JumbaFund";s:7:"summary";s:3171:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=UvyOpFCkoqM"><img alt="" src="http://i.ytimg.com/vi/UvyOpFCkoqM/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=UvyOpFCkoqM">Scaring Floormates pt. 2 (Ep. 5)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Scaring Floormates pt. 1:
+http://www.youtube.com/watch?v=-66hOIXgHDo
+
+There were numerous requests to do another Scaring Floormates video, so we came up with another way to scare someone ;) The two victims in this video have high pitched screams so be sure to turn down your volume when it happens, hahaha
+
+Thanks for watching and subscribing to JumbaFund, every view and subscription helps charity!
+
+Music by:
+http://www.myspace.com/djdeckstream
+
+Follow me on Twitter:
+http://www.twitter.com/kevjumba</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=JumbaFund">JumbaFund</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+791463</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">18024
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">03:14</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=24">Entertainment</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1242938239;}i:15;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/7PU6vaTP7lE";s:7:"pubdate";s:31:"Sat, 27 Jun 2009 19:09:16 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T15:27:13.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:33:"Caught you watching porn outtakes";s:11:"description";s:2749:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=7PU6vaTP7lE"><img alt="" src="http://i.ytimg.com/vi/7PU6vaTP7lE/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=7PU6vaTP7lE">Caught you watching porn outtakes</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>to see original video go here
+http://www.youtube.com/watch?v=fyaDXbk3KpA</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=supbloopers06">supbloopers06</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+87210</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">5603
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">03:33</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=24">Entertainment</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=7PU6vaTP7lE";s:6:"author";s:13:"supbloopers06";s:7:"summary";s:2749:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=7PU6vaTP7lE"><img alt="" src="http://i.ytimg.com/vi/7PU6vaTP7lE/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=7PU6vaTP7lE">Caught you watching porn outtakes</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>to see original video go here
+http://www.youtube.com/watch?v=fyaDXbk3KpA</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=supbloopers06">supbloopers06</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+87210</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">5603
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">03:33</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=24">Entertainment</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1246129756;}i:16;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/-uwY3sjqYX0";s:7:"pubdate";s:31:"Wed, 08 Apr 2009 18:51:24 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T17:38:29.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:49:"Fast Food Folk Song (at the Taco Bell Drive-Thru)";s:11:"description";s:4159:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=-uwY3sjqYX0"><img alt="" src="http://i.ytimg.com/vi/-uwY3sjqYX0/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=-uwY3sjqYX0">Fast Food Folk Song (at the Taco Bell Drive-Thru)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Yes! the guy&#39;s reaction is totally authentic.  He had no idea we were coming, and he really got the order right (almost right).  We couldn&#39;t believe it either, so we understand the questions....
+
+LYRICS:
+I&#700;ll start with a taco, soft like a cloud 
+I want mine crunchy, I like to eat loud. 
+I&#700;ll choose a chalupa, I&#700;ll grab a gordita, 
+and two taco salads for our senoritas. 
+And a Burrito Supreme, with extra sour cream 
+It&#700;s a cylindrically shaped seasoned beef dream. 
+A taquito. An enchirito. Some cinnamon twists. 
+A chicken border bowl.  Are you gettin&#700; all this? 
+
+And you know that nothing beats a 
+hmmm, mmmm...Mexican Pizza... 
+We&#700;ll take two of those, but please hold the diced tomatoes. 
+And I admit, I&#700;ve always felt, 
+like I&#700;m in love with the meximelt. 
+Make mine with a little extra love, and think of me... 
+as the cheese drops from your Taco Bell glove. 
+ and that&#700;s it.  
+
+No! I&#700;m not done...I&#700;ll also take a... 
+
+Double-decker taco cause I&#700;m feeling wild 
+And make my sauce Fire. Uh, he&#700;ll take mild. 
+and we&#700;ll take two Mt. Dew Baja blasts 
+for a chance at 25 dollars cash 
+I&#700;m told there&#700;s a winner for every 5 minutes 
+I&#700;m stealing your online code if you win it. 
+Why would you do that? You owe me 25 bones 
+I owe you 5.  Plus interest--it was a loan. 
+And I think we&#700;ll be satis&#64257;ed, if we get some mexican rice on the side. 
+And that&#700;s it.</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=RhettandLink">RhettandLink</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+1187982</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">13300
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">03:00</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=23">Comedy</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=-uwY3sjqYX0";s:6:"author";s:12:"RhettandLink";s:7:"summary";s:4159:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=-uwY3sjqYX0"><img alt="" src="http://i.ytimg.com/vi/-uwY3sjqYX0/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=-uwY3sjqYX0">Fast Food Folk Song (at the Taco Bell Drive-Thru)</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Yes! the guy&#39;s reaction is totally authentic.  He had no idea we were coming, and he really got the order right (almost right).  We couldn&#39;t believe it either, so we understand the questions....
+
+LYRICS:
+I&#700;ll start with a taco, soft like a cloud 
+I want mine crunchy, I like to eat loud. 
+I&#700;ll choose a chalupa, I&#700;ll grab a gordita, 
+and two taco salads for our senoritas. 
+And a Burrito Supreme, with extra sour cream 
+It&#700;s a cylindrically shaped seasoned beef dream. 
+A taquito. An enchirito. Some cinnamon twists. 
+A chicken border bowl.  Are you gettin&#700; all this? 
+
+And you know that nothing beats a 
+hmmm, mmmm...Mexican Pizza... 
+We&#700;ll take two of those, but please hold the diced tomatoes. 
+And I admit, I&#700;ve always felt, 
+like I&#700;m in love with the meximelt. 
+Make mine with a little extra love, and think of me... 
+as the cheese drops from your Taco Bell glove. 
+ and that&#700;s it.  
+
+No! I&#700;m not done...I&#700;ll also take a... 
+
+Double-decker taco cause I&#700;m feeling wild 
+And make my sauce Fire. Uh, he&#700;ll take mild. 
+and we&#700;ll take two Mt. Dew Baja blasts 
+for a chance at 25 dollars cash 
+I&#700;m told there&#700;s a winner for every 5 minutes 
+I&#700;m stealing your online code if you win it. 
+Why would you do that? You owe me 25 bones 
+I owe you 5.  Plus interest--it was a loan. 
+And I think we&#700;ll be satis&#64257;ed, if we get some mexican rice on the side. 
+And that&#700;s it.</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=RhettandLink">RhettandLink</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+1187982</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">13300
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">03:00</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=23">Comedy</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1239216684;}i:17;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/43b30iv1HH0";s:7:"pubdate";s:31:"Sun, 21 Jun 2009 00:06:31 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T17:34:32.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:24:"California on the Lakers";s:11:"description";s:3098:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=43b30iv1HH0"><img alt="" src="http://i.ytimg.com/vi/43b30iv1HH0/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=43b30iv1HH0">California on the Lakers</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Comedian Kassem G and ShayCarl interview fans at the Lakers parade. SEE SHAY&#39;S VERSION HERE: http://www.youtube.com/watch?v=Ka4TLK0F1Zc
+
+SUB TO MY NEW CHANNEL!:
+http://youtube.com/kassemgtwo
+
+Follow Me on TWITTER!
+http://twitter.com/kassemg
+
+Add me on Facebook!
+http://www.facebook.com/KassemgFans
+
+Add me on Myspace!
+http://www.myspace.com/kassemg
+
+Music By:  Onionz - Woman of the Sun (Magik Johnson Remix) OM Records
+
+Thanks for subscribing!</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=KassemG">KassemG</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+101539</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">4883
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">02:08</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=23">Comedy</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=43b30iv1HH0";s:6:"author";s:7:"KassemG";s:7:"summary";s:3098:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=43b30iv1HH0"><img alt="" src="http://i.ytimg.com/vi/43b30iv1HH0/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=43b30iv1HH0">California on the Lakers</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>Comedian Kassem G and ShayCarl interview fans at the Lakers parade. SEE SHAY&#39;S VERSION HERE: http://www.youtube.com/watch?v=Ka4TLK0F1Zc
+
+SUB TO MY NEW CHANNEL!:
+http://youtube.com/kassemgtwo
+
+Follow Me on TWITTER!
+http://twitter.com/kassemg
+
+Add me on Facebook!
+http://www.facebook.com/KassemgFans
+
+Add me on Myspace!
+http://www.myspace.com/kassemg
+
+Music By:  Onionz - Woman of the Sun (Magik Johnson Remix) OM Records
+
+Thanks for subscribing!</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=KassemG">KassemG</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+101539</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">4883
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">02:08</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=23">Comedy</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1245542791;}i:18;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/lVJVRywgmYM";s:7:"pubdate";s:31:"Fri, 10 Jul 2009 05:47:36 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T16:22:35.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:52:"[OFFICIAL] Michael Jackson Dance Tribute - STOCKHOLM";s:11:"description";s:2957:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=lVJVRywgmYM"><img alt="" src="http://i.ytimg.com/vi/lVJVRywgmYM/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=lVJVRywgmYM">[OFFICIAL] Michael Jackson Dance Tribute - STOCKHOLM</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>This is the  official  clip from BOUNCE &amp; Friends. More than 300 dancers met at 15.30, got informed and then
+learned the choreography in 30 min. Less then 1 hour later they performed it.
+A big thank you to all the dancers who made this possible....*
+OneLove</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=BounceSweden">BounceSweden</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+2416996</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">9166
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">04:08</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=24">Entertainment</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=lVJVRywgmYM";s:6:"author";s:12:"BounceSweden";s:7:"summary";s:2957:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=lVJVRywgmYM"><img alt="" src="http://i.ytimg.com/vi/lVJVRywgmYM/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=lVJVRywgmYM">[OFFICIAL] Michael Jackson Dance Tribute - STOCKHOLM</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>This is the  official  clip from BOUNCE &amp; Friends. More than 300 dancers met at 15.30, got informed and then
+learned the choreography in 30 min. Less then 1 hour later they performed it.
+A big thank you to all the dancers who made this possible....*
+OneLove</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=BounceSweden">BounceSweden</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+2416996</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">9166
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">04:08</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=24">Entertainment</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1247204856;}i:19;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/0v3d6SFcDys";s:7:"pubdate";s:31:"Thu, 09 Apr 2009 22:03:18 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T17:21:14.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:86:"LOVE STORY (Taylor Swift) meets VIVA LA VIDA (Coldplay) - Piano Cello - by Jon Schmidt";s:11:"description";s:4665:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=0v3d6SFcDys"><img alt="" src="http://i.ytimg.com/vi/0v3d6SFcDys/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=0v3d6SFcDys">LOVE STORY (Taylor Swift) meets VIVA LA VIDA (Coldplay) - Piano Cello - by Jon Schmidt</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>http://www.jonschmidt.com  Hi...Jon Schmidt here. This arrangement is dedicated to Sarah, my 7 year old daughter who loves the song Love Story by Taylor Swift.  Because of a common rhythm element between the tunes, I decided I could mish/mash the two.   My great friend Steven Sharp Nelson (cello percussion) really makes this tune. (http://stevensharpnelson.com )
+
+The download will be available from my site (http://www.jonschmidt.com ) in a couple of weeks.
+
+The entire album which will be titled &quot;Bonus Tracks&quot; will be available on iTunes summer 2009.  Sheet music will also be available at my site May 2009.
+
+I am an unsigned recording artist and composer.  
+
+All songs from all my albums can be listened to for free on my site: http://www.jonschmidt.com
+
+I have transcribed many of them for piano.  The first 2 
+pages of each song can be previewed before purchasing.
+
+There are also several free song and sheet music downloads including All of Me PDF and MP3
+
+I am also on I-tunes, Amazon, etc.
+
+I&#39;ll be adding more videos soon.
+
+
+There&#39;s a little demo video I threw together featuring 2 of my most popular compositions: &quot;All of Me&quot; and &quot;Waterfall&quot; at: http://www.youtube.com/watch?v=R5mqWdc0ZoA
+
+THANKS!!!!
+
+:)
+
+Coldplay Viva La Vida
+coldplay viva la vida
+Taylor Swift Love Story 
+taylor swift love story
+tailor swift love story 
+Cold  Play Viva la Vida 
+cold  play viva la vida 
+lovestory taylor swift
+Lovestory Taylor Swift
+piano cover
+cello
+piano 
+
+       
+Arranged by Jon Schmidt. Co-arranged by Steven Sharp Nelson  Recorded at Big Idea studios Engineered by Jake Bowen and Chuck Myers. Produced by Jon Schmidt. Co- produced by Chuck Myers.  &quot;Love Story&quot; written by Taylor Swift.  &quot;Viva la Vida&quot; written by: Guy Berryman, Jonny Buckland, Will Champion, Chris Martin.  Video Produced by Amenat Studios.  Directed by Matthew Mclelland.  Director of Photography Patrick Ryan Gass</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=carlosian2">carlosian2</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+2392207</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">23071
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">08:04</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=10">Music</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=0v3d6SFcDys";s:6:"author";s:10:"carlosian2";s:7:"summary";s:4665:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=0v3d6SFcDys"><img alt="" src="http://i.ytimg.com/vi/0v3d6SFcDys/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=0v3d6SFcDys">LOVE STORY (Taylor Swift) meets VIVA LA VIDA (Coldplay) - Piano Cello - by Jon Schmidt</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>http://www.jonschmidt.com  Hi...Jon Schmidt here. This arrangement is dedicated to Sarah, my 7 year old daughter who loves the song Love Story by Taylor Swift.  Because of a common rhythm element between the tunes, I decided I could mish/mash the two.   My great friend Steven Sharp Nelson (cello percussion) really makes this tune. (http://stevensharpnelson.com )
+
+The download will be available from my site (http://www.jonschmidt.com ) in a couple of weeks.
+
+The entire album which will be titled &quot;Bonus Tracks&quot; will be available on iTunes summer 2009.  Sheet music will also be available at my site May 2009.
+
+I am an unsigned recording artist and composer.  
+
+All songs from all my albums can be listened to for free on my site: http://www.jonschmidt.com
+
+I have transcribed many of them for piano.  The first 2 
+pages of each song can be previewed before purchasing.
+
+There are also several free song and sheet music downloads including All of Me PDF and MP3
+
+I am also on I-tunes, Amazon, etc.
+
+I&#39;ll be adding more videos soon.
+
+
+There&#39;s a little demo video I threw together featuring 2 of my most popular compositions: &quot;All of Me&quot; and &quot;Waterfall&quot; at: http://www.youtube.com/watch?v=R5mqWdc0ZoA
+
+THANKS!!!!
+
+:)
+
+Coldplay Viva La Vida
+coldplay viva la vida
+Taylor Swift Love Story 
+taylor swift love story
+tailor swift love story 
+Cold  Play Viva la Vida 
+cold  play viva la vida 
+lovestory taylor swift
+Lovestory Taylor Swift
+piano cover
+cello
+piano 
+
+       
+Arranged by Jon Schmidt. Co-arranged by Steven Sharp Nelson  Recorded at Big Idea studios Engineered by Jake Bowen and Chuck Myers. Produced by Jon Schmidt. Co- produced by Chuck Myers.  &quot;Love Story&quot; written by Taylor Swift.  &quot;Viva la Vida&quot; written by: Guy Berryman, Jonny Buckland, Will Champion, Chris Martin.  Video Produced by Amenat Studios.  Directed by Matthew Mclelland.  Director of Photography Patrick Ryan Gass</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=carlosian2">carlosian2</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+2392207</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">23071
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">08:04</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=10">Music</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1239314598;}i:20;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/2P474shfpmg";s:7:"pubdate";s:31:"Thu, 04 Jun 2009 18:35:31 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T16:11:16.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:3:"FUN";s:11:"description";s:3312:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=2P474shfpmg"><img alt="" src="http://i.ytimg.com/vi/2P474shfpmg/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=2P474shfpmg">FUN</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>**THANK YOU SO MUCH FOR Commenting/Rating/Subscribing/Favin**
+
+I really wanted to draw, and I really wanted to make a video, so I decided to do both at once!--xoxo--BLT :)
+
+**STARRING/EVERYTHING DONE BY**
+Brittani Taylor
+
+
+TWITTER
+http://www.twitter.com/brittanitaylor
+BLOGTV
+http://www.blogtv.com/people/brittanilouisetaylor
+MY OTHER CHANNEL
+http://www.youtube.com/rhondaanthonytanner
+
+**MUSIC BY**
+http://www.incompetech.com
+
+WEBSITE
+http://www.ratcoaching.com
+MYSPACE
+http://www.myspace.com/brittanilouise
+BLOG
+http://www.rhondaanthonytanner.blogspot.com
+MERCHANDISE
+http://www.cafepress.com/ratcoaching
+RINGTONES
+http://www.myxer.com/RATTONES</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=BrittaniLouiseTaylor">BrittaniLouiseTaylor</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+96935</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">5421
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">01:36</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=22">People &amp; Blogs</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=2P474shfpmg";s:6:"author";s:20:"BrittaniLouiseTaylor";s:7:"summary";s:3312:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=2P474shfpmg"><img alt="" src="http://i.ytimg.com/vi/2P474shfpmg/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=2P474shfpmg">FUN</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>**THANK YOU SO MUCH FOR Commenting/Rating/Subscribing/Favin**
+
+I really wanted to draw, and I really wanted to make a video, so I decided to do both at once!--xoxo--BLT :)
+
+**STARRING/EVERYTHING DONE BY**
+Brittani Taylor
+
+
+TWITTER
+http://www.twitter.com/brittanitaylor
+BLOGTV
+http://www.blogtv.com/people/brittanilouisetaylor
+MY OTHER CHANNEL
+http://www.youtube.com/rhondaanthonytanner
+
+**MUSIC BY**
+http://www.incompetech.com
+
+WEBSITE
+http://www.ratcoaching.com
+MYSPACE
+http://www.myspace.com/brittanilouise
+BLOG
+http://www.rhondaanthonytanner.blogspot.com
+MERCHANDISE
+http://www.cafepress.com/ratcoaching
+RINGTONES
+http://www.myxer.com/RATTONES</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=BrittaniLouiseTaylor">BrittaniLouiseTaylor</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+96935</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">5421
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">01:36</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=22">People &amp; Blogs</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1244140531;}i:21;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/0ltAGuuru7Q";s:7:"pubdate";s:31:"Mon, 01 Dec 2008 19:01:23 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T16:10:30.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:59:"Israel Kamakawiwo'Ole 'IZ'  'Somewhere Over The Rainbow' HQ";s:11:"description";s:6695:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=0ltAGuuru7Q"><img alt="" src="http://i.ytimg.com/vi/0ltAGuuru7Q/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=0ltAGuuru7Q">Israel Kamakawiwo&#39;Ole &#39;IZ&#39;  &#39;Somewhere Over The Rainbow&#39; HQ</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>WITH ORIGINAL SOUND! Official &#39;SOMEWHERE OVER THE RAINBOW&#39; Music Video by Israel Kamakawiwo&#39;ole 
+
+download @ http://www.myspace.com/danielavideo
+
+
+Israel &quot;Iz&quot; Ka&#699;ano&#699;i Kamakawiwo&#699;ole (May 20, 1959 -- June 26, 1997) (pronounced [ka-maka-vi-vo-ole]) was an Hawaiian musician.
+
+He became famous outside Hawaii when his album Facing Future was released in 1993 with his medley of &quot;Over the Rainbow&quot; and &quot;What a Wonderful World&quot;, which was subsequently featured in several films, television programs, and commercials.
+
+From childhood, his family called Israel by his Hawaiian middle name, Ka&#699;ano&#699;i, the &quot;beloved one&quot;. His name would later become the title name of his first solo album, Ka&#699;ano&#699;i, and also foretells the greatness of this &quot;cherished one&quot;. It is interesting to note here that part of his name, ano&#699;i, when simplified to no&#699;i may be a contraction of the Hawaiian word, nohi. Nohi means &quot;bright-colored, vivid, as the rainbow&quot; (see Hawaiian Dictionary, Pukui and Elbert). Nohi, rainbow, beloved one, and cherished one are powerful symbols in his life. Iz&#39;s recording of the song &quot;Somewhere Over The Rainbow&quot; would become renowned throughout the world and continues to garner high acclaim. The song has come to be known as Iz&#699;s &quot;signature song&quot;, the most renowned of all his songs.
+
+Kamakawiwo`ole was nicknamed &quot;The Gentle Giant&quot; by his admirers. He was described as always cheerful and positive, and he was best known for his love of the land and of the people of Hawai&#699;i. Through his consummate ukulele playing and incorporation of other idioms (such as jazz and reggae), Iz remains one of the major influences in Hawaiian music over the last 15 years.
+
+Israel&#39;s recording of &quot;Over the Rainbow/What a Wonderful World&quot; reached #12 on Billboard&#39;s Hot Digital Tracks chart the week of 1/31/04 (for the survey week ending 1/18/04), possibly due to its use in the Adam Sandler film 50 First Dates, and the Brad Pitt film Meet Joe Black.
+
+In 2006, a version of &quot;Somewhere Over the Rainbow&quot;, in an arrangement based on Iz&#39;, was performed by The Worthless Peons in &quot;My Way Home&quot;, the 100th episode of Scrubs, over the closing montage. A recording of the same song by Iz was used in the closing scenes of the final episode of Life on Mars (TV Series). It is also a featured song in the movie Finding Forrester. In 2002, the song was used to powerful effect in the closing scenes of Anthony Edwards&#39; last appearance in ER as Dr. Mark Greene, in the episode &quot;On the Beach&quot;. On week 8 of American Idol (season 7), Jason Castro performed his own version of this song except that he left out the &quot;What a Wonderful World&quot; line, but still gave credit to Israel for the song.
+
+DEATH:
+Throughout the later part of his life, Iz was obese and at one point carried 758 pounds (344 kg) on his 6 feet 2 inches (1.9 m) frame. He endured several hospitalizations and died of weight-related respiratory illness on June 26, 1997 at 12:18 am at the age of 38.
+
+The Hawai&#699;i State Flag flew at half-staff on July 10, 1997, the day of Iz&#39;s funeral. His koa wood coffin lay in state at the Capitol building in Honolulu. He was the third person in Hawaiian history to be accorded this honor (the other two were Governor John A. Burns and Senator Spark Matsunaga) and the only non-politician. Over 10,000 people attended his funeral. Thousands of fans gathered and cheered as his ashes were scattered into the Pacific Ocean at M&#257;kua Beach on July 12, 1997.
+
+On September 20, 2003, hundreds paid tribute to Iz as a 200-pound bronze bust of the revered singer was unveiled at the Waianae Neighborhood Community Center on O&#39;ahu. The singer&#39;s widow, Marlene Kamakawiwo&#39;ole, and sculptor Jan-Michelle Sawyer were present for the dedication ceremony.</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=DVideoPro">DVideoPro</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+3013597</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">34909
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">03:39</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=22">People &amp; Blogs</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=0ltAGuuru7Q";s:6:"author";s:9:"DVideoPro";s:7:"summary";s:6695:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=0ltAGuuru7Q"><img alt="" src="http://i.ytimg.com/vi/0ltAGuuru7Q/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=0ltAGuuru7Q">Israel Kamakawiwo&#39;Ole &#39;IZ&#39;  &#39;Somewhere Over The Rainbow&#39; HQ</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>WITH ORIGINAL SOUND! Official &#39;SOMEWHERE OVER THE RAINBOW&#39; Music Video by Israel Kamakawiwo&#39;ole 
+
+download @ http://www.myspace.com/danielavideo
+
+
+Israel &quot;Iz&quot; Ka&#699;ano&#699;i Kamakawiwo&#699;ole (May 20, 1959 -- June 26, 1997) (pronounced [ka-maka-vi-vo-ole]) was an Hawaiian musician.
+
+He became famous outside Hawaii when his album Facing Future was released in 1993 with his medley of &quot;Over the Rainbow&quot; and &quot;What a Wonderful World&quot;, which was subsequently featured in several films, television programs, and commercials.
+
+From childhood, his family called Israel by his Hawaiian middle name, Ka&#699;ano&#699;i, the &quot;beloved one&quot;. His name would later become the title name of his first solo album, Ka&#699;ano&#699;i, and also foretells the greatness of this &quot;cherished one&quot;. It is interesting to note here that part of his name, ano&#699;i, when simplified to no&#699;i may be a contraction of the Hawaiian word, nohi. Nohi means &quot;bright-colored, vivid, as the rainbow&quot; (see Hawaiian Dictionary, Pukui and Elbert). Nohi, rainbow, beloved one, and cherished one are powerful symbols in his life. Iz&#39;s recording of the song &quot;Somewhere Over The Rainbow&quot; would become renowned throughout the world and continues to garner high acclaim. The song has come to be known as Iz&#699;s &quot;signature song&quot;, the most renowned of all his songs.
+
+Kamakawiwo`ole was nicknamed &quot;The Gentle Giant&quot; by his admirers. He was described as always cheerful and positive, and he was best known for his love of the land and of the people of Hawai&#699;i. Through his consummate ukulele playing and incorporation of other idioms (such as jazz and reggae), Iz remains one of the major influences in Hawaiian music over the last 15 years.
+
+Israel&#39;s recording of &quot;Over the Rainbow/What a Wonderful World&quot; reached #12 on Billboard&#39;s Hot Digital Tracks chart the week of 1/31/04 (for the survey week ending 1/18/04), possibly due to its use in the Adam Sandler film 50 First Dates, and the Brad Pitt film Meet Joe Black.
+
+In 2006, a version of &quot;Somewhere Over the Rainbow&quot;, in an arrangement based on Iz&#39;, was performed by The Worthless Peons in &quot;My Way Home&quot;, the 100th episode of Scrubs, over the closing montage. A recording of the same song by Iz was used in the closing scenes of the final episode of Life on Mars (TV Series). It is also a featured song in the movie Finding Forrester. In 2002, the song was used to powerful effect in the closing scenes of Anthony Edwards&#39; last appearance in ER as Dr. Mark Greene, in the episode &quot;On the Beach&quot;. On week 8 of American Idol (season 7), Jason Castro performed his own version of this song except that he left out the &quot;What a Wonderful World&quot; line, but still gave credit to Israel for the song.
+
+DEATH:
+Throughout the later part of his life, Iz was obese and at one point carried 758 pounds (344 kg) on his 6 feet 2 inches (1.9 m) frame. He endured several hospitalizations and died of weight-related respiratory illness on June 26, 1997 at 12:18 am at the age of 38.
+
+The Hawai&#699;i State Flag flew at half-staff on July 10, 1997, the day of Iz&#39;s funeral. His koa wood coffin lay in state at the Capitol building in Honolulu. He was the third person in Hawaiian history to be accorded this honor (the other two were Governor John A. Burns and Senator Spark Matsunaga) and the only non-politician. Over 10,000 people attended his funeral. Thousands of fans gathered and cheered as his ashes were scattered into the Pacific Ocean at M&#257;kua Beach on July 12, 1997.
+
+On September 20, 2003, hundreds paid tribute to Iz as a 200-pound bronze bust of the revered singer was unveiled at the Waianae Neighborhood Community Center on O&#39;ahu. The singer&#39;s widow, Marlene Kamakawiwo&#39;ole, and sculptor Jan-Michelle Sawyer were present for the dedication ceremony.</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=DVideoPro">DVideoPro</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+3013597</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">34909
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">03:39</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=22">People &amp; Blogs</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1228158083;}i:22;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/pJ-81-2yPE8";s:7:"pubdate";s:31:"Sun, 09 Aug 2009 18:03:11 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T18:13:09.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:32:"Mean Kitty - Doctor Visit 8.8.09";s:11:"description";s:2943:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=pJ-81-2yPE8"><img alt="" src="http://i.ytimg.com/vi/pJ-81-2yPE8/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=pJ-81-2yPE8">Mean Kitty - Doctor Visit 8.8.09</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>These vlogs are just little daily glimpses into the lives of our cats Sparta and Loki. Posting daily from 7.29.2009 - 9.1.2009 while Stephanie and I prepare for our wedding on 9.6.2009.
+
+MUSIC:
+&quot;CubaseSX3&quot;
+by Nathan Wills
+http://www.NathanWillsMusic.com</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=TheMeanKitty">TheMeanKitty</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+137047</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">6924
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">02:35</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=15">Pets &amp; Animals</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=pJ-81-2yPE8";s:6:"author";s:12:"TheMeanKitty";s:7:"summary";s:2943:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=pJ-81-2yPE8"><img alt="" src="http://i.ytimg.com/vi/pJ-81-2yPE8/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=pJ-81-2yPE8">Mean Kitty - Doctor Visit 8.8.09</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>These vlogs are just little daily glimpses into the lives of our cats Sparta and Loki. Posting daily from 7.29.2009 - 9.1.2009 while Stephanie and I prepare for our wedding on 9.6.2009.
+
+MUSIC:
+&quot;CubaseSX3&quot;
+by Nathan Wills
+http://www.NathanWillsMusic.com</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=TheMeanKitty">TheMeanKitty</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+137047</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">6924
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">02:35</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=15">Pets &amp; Animals</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1249840991;}i:23;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/1Oy6tGv3bx0";s:7:"pubdate";s:31:"Tue, 07 Jul 2009 20:27:52 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T16:11:00.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:19:"DOGGY STYLE BABY!!!";s:11:"description";s:3176:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=1Oy6tGv3bx0"><img alt="" src="http://i.ytimg.com/vi/1Oy6tGv3bx0/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=1Oy6tGv3bx0">DOGGY STYLE BABY!!!</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>SUBSCRIBE!!!! &amp; leave a comment tellin me a good name for my puppy!
+
+
+CONNECT WITH ME:
+
+MY OTHER CHANNEL
+http://www.youtube.com/shanedawsontv
+
+MYSPACE
+http://www.myspace.com/shaneyaw
+
+FACEBOOK
+http://www.facebook.com/pages/Shane-Dawson/71248814725
+
+TWITTER
+http://www.twitter.com/shanedawson
+
+BLOGTV
+http://www.blogtv.com/people/shanedawsonlive
+
+CALL ME
+562 606 1512
+
+MERCH/ONLINE STORE
+http://www.shanedawson.spreadshirt.com
+
+RINGTONES
+http://www.myxer.com/artist/16372781/
+
+WEBSITE
+http://www.shanedawsontv.com</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=ShaneDawsonTV2">ShaneDawsonTV2</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+396410</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">27753
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">01:36</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=23">Comedy</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=1Oy6tGv3bx0";s:6:"author";s:14:"ShaneDawsonTV2";s:7:"summary";s:3176:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=1Oy6tGv3bx0"><img alt="" src="http://i.ytimg.com/vi/1Oy6tGv3bx0/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=1Oy6tGv3bx0">DOGGY STYLE BABY!!!</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>SUBSCRIBE!!!! &amp; leave a comment tellin me a good name for my puppy!
+
+
+CONNECT WITH ME:
+
+MY OTHER CHANNEL
+http://www.youtube.com/shanedawsontv
+
+MYSPACE
+http://www.myspace.com/shaneyaw
+
+FACEBOOK
+http://www.facebook.com/pages/Shane-Dawson/71248814725
+
+TWITTER
+http://www.twitter.com/shanedawson
+
+BLOGTV
+http://www.blogtv.com/people/shanedawsonlive
+
+CALL ME
+562 606 1512
+
+MERCH/ONLINE STORE
+http://www.shanedawson.spreadshirt.com
+
+RINGTONES
+http://www.myxer.com/artist/16372781/
+
+WEBSITE
+http://www.shanedawsontv.com</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=ShaneDawsonTV2">ShaneDawsonTV2</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+396410</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">27753
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">01:36</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=23">Comedy</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1246998472;}i:24;a:10:{s:4:"guid";s:54:"http://gdata.youtube.com/feeds/base/videos/uRv8gnBMiWM";s:7:"pubdate";s:31:"Thu, 25 Dec 2008 01:17:39 +0000";s:4:"atom";a:1:{s:7:"updated";s:24:"2009-08-13T17:30:12.000Z";}s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:20:"Wind Waker Unplugged";s:11:"description";s:3203:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=uRv8gnBMiWM"><img alt="" src="http://i.ytimg.com/vi/uRv8gnBMiWM/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=uRv8gnBMiWM">Wind Waker Unplugged</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>A christmas project with accordion, flutes and other acoustic &quot;instruments&quot;. The original music is from the Legend of Zelda series. (Mostly from The Wind Waker.)
+
+* Dec29 2008: 100,000 views in less than a week! :O
+* Most of january 2009: #1 - Top Rated (All Time) :O
+* Feb20 2009: 500,000 views. :) Thanks!
+
+* MP3 here: http://www.speedyshare.com/704964519.html
+* I used Ulead VideoStudio for editing, read this interview for more information: http://www.nucleargeek.com/blog/2008/12/28/interview-with-a-one-man-orchestra-fredrik-larsson.html</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=Freddie25">Freddie25</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+983980</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">18909
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">02:27</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=10">Music</a></td></tr></tbody></table></div>";s:4:"link";s:42:"http://www.youtube.com/watch?v=uRv8gnBMiWM";s:6:"author";s:9:"Freddie25";s:7:"summary";s:3203:"<div style="color: #000000;font-family: Arial, Helvetica, sans-serif;     font-size:12px; font-size: 12px; width: 555px;">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="140" valign="top" rowspan="2"><div style="border: 1px solid #999999; margin: 0px 10px 5px 0px;"><a href="http://www.youtube.com/watch?v=uRv8gnBMiWM"><img alt="" src="http://i.ytimg.com/vi/uRv8gnBMiWM/2.jpg"></a></div></td>
+<td width="256" valign="top"><div style="font-size: 12px; font-weight: bold;"><a style="font-size: 15px; font-weight: bold;                  font-decoration: none;" href="http://www.youtube.com/watch?v=uRv8gnBMiWM">Wind Waker Unplugged</a>
+<br></div>
+<div style="font-size: 12px; margin: 3px 0px;"><span>A christmas project with accordion, flutes and other acoustic &quot;instruments&quot;. The original music is from the Legend of Zelda series. (Mostly from The Wind Waker.)
+
+* Dec29 2008: 100,000 views in less than a week! :O
+* Most of january 2009: #1 - Top Rated (All Time) :O
+* Feb20 2009: 500,000 views. :) Thanks!
+
+* MP3 here: http://www.speedyshare.com/704964519.html
+* I used Ulead VideoStudio for editing, read this interview for more information: http://www.nucleargeek.com/blog/2008/12/28/interview-with-a-one-man-orchestra-fredrik-larsson.html</span></div></td>
+<td style="font-size: 11px; line-height: 1.4em; padding-left: 20px;             padding-top: 1px;" width="146" valign="top"><div><span style="color: #666666; font-size: 11px;">From:</span>
+<a href="http://www.youtube.com/profile?user=Freddie25">Freddie25</a></div>
+<div><span style="color: #666666; font-size: 11px;">Views:</span>
+983980</div>
+<div style="white-space: nowrap;text-align: left"><img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_full_11x11.gif"> <img style="border: 0px none; margin: 0px; padding: 0px;                    vertical-align: middle; font-size: 11px;" align="top" alt="" src="http://gdata.youtube.com/static/images/icn_star_half_11x11.gif"></div>
+<div style="font-size: 11px;">18909
+<span style="color: #666666; font-size: 11px;">ratings</span></div></td></tr>
+<tr><td><span style="color: #666666; font-size: 11px;">Time:</span>
+<span style="color: #000000; font-size: 11px; font-weight: bold;">02:27</span></td>
+<td style="font-size: 11px; padding-left: 20px;"><span style="color: #666666; font-size: 11px;">More in</span>
+<a href="http://www.youtube.com/categories_portal?c=10">Music</a></td></tr></tbody></table></div>";s:14:"date_timestamp";i:1230167859;}}s:7:"channel";a:9:{s:4:"atom";a:1:{s:2:"id";s:59:"http://gdata.youtube.com/feeds/base/standardfeeds/top_rated";}s:13:"lastbuilddate";s:31:"Thu, 13 Aug 2009 14:26:24 +0000";s:8:"category";s:43:"http://gdata.youtube.com/schemas/2007#video";s:5:"title";s:9:"Top Rated";s:4:"link";s:34:"http://www.youtube.com/browse?s=tr";s:14:"managingeditor";s:7:"YouTube";s:9:"generator";s:16:"YouTube data API";s:10:"opensearch";a:3:{s:12:"totalresults";s:3:"100";s:10:"startindex";s:1:"1";s:12:"itemsperpage";s:2:"25";}s:7:"tagline";N;}s:9:"textinput";a:0:{}s:5:"image";a:3:{s:3:"url";s:53:"http://www.youtube.com/img/pic_youtubelogo_123x63.gif";s:5:"title";s:9:"Top Rated";s:4:"link";s:34:"http://www.youtube.com/browse?s=tr";}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"2.0";s:8:"encoding";s:5:"UTF-8";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;s:13:"last_modified";s:31:"Thu, 13 Aug 2009 14:26:24 GMT
+";}

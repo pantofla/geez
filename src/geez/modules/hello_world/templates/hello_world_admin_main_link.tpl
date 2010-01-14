@@ -1,0 +1,1 @@
+<img src="{$my_base_url}{$my_pligg_base}/modules/hello_world/templates/smiley.png" align="absmiddle"/> <a href="{$my_base_url}{$my_pligg_base}/modules/admin_help_english/docs/welcome.html" rel="width:640,height:640" class="onetime" id="autopop">Welcome to Pligg</a><br/>
